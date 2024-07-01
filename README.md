@@ -14,6 +14,7 @@
 ### 📈 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oudom-phoem&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oudom-phoem&layout=compact&theme=radical)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oudom-phoem&theme=tokyonight" alt="oudom-phoem" />
 
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/oudom-phoem-8a12b62a3/)
