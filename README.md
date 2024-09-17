@@ -1,10 +1,10 @@
-# Hi, I'm Oudom Phoem 👋
+# Hi, I'm Oudom 👋
 
- I am a Front-End Developer based in Phnom Penh, Cambodia.
+ I am a Full Stack Developer based in Phnom Penh, Cambodia.
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
 ## 📫 Social
 
