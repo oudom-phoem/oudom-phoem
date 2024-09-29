@@ -1,6 +1,6 @@
 # Hi, I'm Oudom 👋
 
- I am a Full Stack Developer based in Phnom Penh, Cambodia.
+ I am a Software Developer based in Phnom Penh, Cambodia.
 
 ## 🚀 Skills
 
