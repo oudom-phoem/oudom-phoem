@@ -6,10 +6,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
 
-## 📫 Social
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oudom-phoem-8a12b62a3/)
-
 ## 📧 Contact Me
 
 You can reach me at <oudomphoem@gmail.com>
