@@ -4,7 +4,7 @@
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
 
 ## 📧 Contact Me
 
